@@ -3,6 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Stephane Meilliezz'
+
 description: 'Work in progress.'
 
 # Images
@@ -31,11 +32,11 @@ github-user: 'StefMDS'
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
 #vk: 'myvk'
-#blog_url: 
+blog_url: 'https://github.com/StefMDS/CS-refresher-TP1-business-card/releases/latest'
 email: 'stephane.meilliez.etu@univ-lille.fr'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user,  email]
+social-links-order: [github-user,  email, blog_url]
 
 # Yaml manifest of supported social links
 # Requirements:
